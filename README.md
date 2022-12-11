@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **React , Laravel , Rast , NodeJs**
+- 🌱 I’m currently learning **Javascrept , React.js , Laravel , NodeJs**
 
 - 🤝 I’m looking for help with **my professional career**
 
