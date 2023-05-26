@@ -17,9 +17,3 @@
 
 - ⚡ Fun fact **When I am not coding you can find me playing gym or having fun with friends.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/abdallah-atguiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdallah-atguiri" height="30" width="40" /></a>
-<a href="https://fb.com/abdallah atguiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdallah atguiri" height="30" width="40" /></a>
-<a href="https://instagram.com/abdallah atguiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdallah atguiri" height="30" width="40" /></a>
-</p>
