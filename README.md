@@ -3,10 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **MERNSTACK , FULLSTACK (Laravel/Vuejs)**
-
-- 🤝 I’m looking for help with **my professional career**
-
 - 📝 I regularly write articles on [atguiri.com](atguiri.com)
 
 - 📫 How to reach me **AbdallahAtguiri@gmail.com**
