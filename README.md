@@ -5,9 +5,9 @@
 
 - 📝 I regularly write articles on [atguiri.com]([atguiri.com](https://abdallah-atguiri.github.io/portfolio/))
 
-- 📫 How to reach me **AbdallahAtguiri@gmail.com**
+- 📫 How to reach me **abdallah.atguiri@gmail.com**
 
-- 📄 Know about my experiences [atguiri.com](atguiri.com)
+- 📄 Know about my experiences [atguiri.com]([atguiri.com](https://abdallah-atguiri.github.io/portfolio/))
 
 - ⚡ Fun fact **When I am not coding you can find me playing gym or having fun with friends.**
 
