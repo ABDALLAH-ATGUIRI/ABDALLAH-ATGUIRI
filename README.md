@@ -45,19 +45,6 @@
 
 ---
 
-### 📫 Contact Me
-
-- 📧 Email: **abdallah.atguiri@gmail.com**  
-- 🌐 Website: [abdallah-atguiri.github.io/portfolio](https://abdallah-atguiri.github.io/portfolio/)
-
----
-
-### ⚡ Fun Fact
-
-> When I'm not coding, you’ll likely find me lifting at the gym or laughing with friends.
-
----
-
 ### 💡 Want to collaborate?
 
 I'm open to freelance opportunities, side projects, and contributions.  
