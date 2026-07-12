@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full-Stack Developer | 🧠 Lifelong Learner | 🇲🇦 Based in Morocco</h3>
 
 <p align="center">
-  <a href="[https://abdallah-atguiri.github.io/portfolio/](https://atguiri.dev/)" target="_blank">
+  <a href="https://atguiri.dev" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-View-blue?style=for-the-badge&logo=google-chrome" alt="Portfolio" />
   </a>
   <a href="mailto:abdallah.atguiri@gmail.com" target="_blank">
